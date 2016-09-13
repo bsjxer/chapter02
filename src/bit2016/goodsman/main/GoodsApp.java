@@ -1,6 +1,6 @@
-package mypackage;
+package bit2016.goodsman.main;
 
-import chapter02.Goods;
+import bit2016.goodsman.data.Goods;
 
 public class GoodsApp {
 
